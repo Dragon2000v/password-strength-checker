@@ -1,0 +1,12 @@
+.password-container {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 250px; /* Adjust the width as needed */
+}
+
+.strength-section {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
